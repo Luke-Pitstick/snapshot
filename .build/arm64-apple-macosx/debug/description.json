@@ -1,0 +1,619 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.Snapshot-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/sources",
+      "importPath" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/AppCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/CaptureCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/CaptureMode.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/PermissionsChecker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/RegionSelectionController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/ScreenCaptureService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/SelectionOverlayView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/SelectionOverlayWindow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/WindowPickerController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/HotKeyManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/HotKeyRecorderView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/KeyCombo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Menu/MenuBarContent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/CaptureResult.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ResultRouter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ThumbnailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ThumbnailWindowController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Settings/Preferences.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Settings/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/SnapshotApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "Snapshot",
+      "moduleOutputPath" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Modules/Snapshot.swiftmodule",
+      "objects" : [
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppCoordinator.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppDelegate.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureCoordinator.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureMode.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/PermissionsChecker.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/RegionSelectionController.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ScreenCaptureService.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayView.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayWindow.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/WindowPickerController.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyManager.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyRecorderView.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/KeyCombo.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/MenuBarContent.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureResult.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ResultRouter.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailView.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailWindowController.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/Preferences.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SettingsView.swift.o",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SnapshotApp.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "Snapshot_main",
+        "-swift-version",
+        "5",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "snapshot"
+      ],
+      "outputFileMapPath" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppCoordinator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureCoordinator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureMode.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/PermissionsChecker.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/RegionSelectionController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ScreenCaptureService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayWindow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/WindowPickerController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyRecorderView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/KeyCombo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/MenuBarContent.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureResult.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ResultRouter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailWindowController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/Preferences.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SnapshotApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Modules/Snapshot.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/AppCoordinator.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/AppDelegate.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/CaptureCoordinator.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/CaptureMode.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/PermissionsChecker.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/RegionSelectionController.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/ScreenCaptureService.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/SelectionOverlayView.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/SelectionOverlayWindow.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/WindowPickerController.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/HotKeyManager.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/HotKeyRecorderView.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/KeyCombo.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Menu/MenuBarContent.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/CaptureResult.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ResultRouter.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ThumbnailView.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ThumbnailWindowController.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Settings/Preferences.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Settings/SettingsView.swift",
+        "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/SnapshotApp.swift"
+      ],
+      "tempsPath" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "Snapshot" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "Snapshot",
+      "-package-name",
+      "snapshot",
+      "-c",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/AppCoordinator.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/AppDelegate.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/CaptureCoordinator.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/CaptureMode.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/PermissionsChecker.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/RegionSelectionController.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/ScreenCaptureService.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/SelectionOverlayView.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/SelectionOverlayWindow.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/WindowPickerController.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/HotKeyManager.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/HotKeyRecorderView.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/KeyCombo.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Menu/MenuBarContent.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/CaptureResult.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ResultRouter.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ThumbnailView.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ThumbnailWindowController.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Settings/Preferences.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Settings/SettingsView.swift",
+      "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/SnapshotApp.swift",
+      "-I",
+      "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "Snapshot_main",
+      "-swift-version",
+      "5",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "snapshot",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "Snapshot" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot-entitlement.plist"
+    },
+    "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/AppCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/CaptureCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/CaptureMode.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/PermissionsChecker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/RegionSelectionController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/ScreenCaptureService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/SelectionOverlayView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/SelectionOverlayWindow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/WindowPickerController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/HotKeyManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/HotKeyRecorderView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/KeyCombo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Menu/MenuBarContent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/CaptureResult.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ResultRouter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ThumbnailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ThumbnailWindowController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Settings/Preferences.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Settings/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/SnapshotApp.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/sources"
+    },
+    "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppCoordinator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureCoordinator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureMode.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureResult.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyRecorderView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/KeyCombo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/MenuBarContent.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/PermissionsChecker.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/Preferences.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/RegionSelectionController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ResultRouter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ScreenCaptureService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayWindow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SnapshotApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailWindowController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/WindowPickerController.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.product/Objects.LinkFileList"
+    },
+    "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

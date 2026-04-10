@@ -1,0 +1,152 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/master.swiftdeps"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/AppCoordinator.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppCoordinator.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppCoordinator.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppCoordinator.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppCoordinator.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/AppDelegate.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppDelegate.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/AppDelegate.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/CaptureCoordinator.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureCoordinator.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureCoordinator.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureCoordinator.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureCoordinator.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/CaptureMode.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureMode.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureMode.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureMode~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureMode.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureMode.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/PermissionsChecker.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/PermissionsChecker.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/PermissionsChecker.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/PermissionsChecker~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/PermissionsChecker.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/PermissionsChecker.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/RegionSelectionController.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/RegionSelectionController.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/RegionSelectionController.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/RegionSelectionController~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/RegionSelectionController.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/RegionSelectionController.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/ScreenCaptureService.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ScreenCaptureService.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ScreenCaptureService.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ScreenCaptureService~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ScreenCaptureService.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ScreenCaptureService.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/SelectionOverlayView.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayView.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayView.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayView.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayView.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/SelectionOverlayWindow.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayWindow.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayWindow.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayWindow~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayWindow.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SelectionOverlayWindow.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Capture/WindowPickerController.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/WindowPickerController.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/WindowPickerController.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/WindowPickerController~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/WindowPickerController.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/WindowPickerController.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/HotKeyManager.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyManager.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyManager.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyManager.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyManager.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/HotKeyRecorderView.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyRecorderView.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyRecorderView.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyRecorderView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyRecorderView.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/HotKeyRecorderView.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Hotkeys/KeyCombo.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/KeyCombo.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/KeyCombo.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/KeyCombo~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/KeyCombo.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/KeyCombo.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Menu/MenuBarContent.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/MenuBarContent.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/MenuBarContent.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/MenuBarContent~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/MenuBarContent.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/MenuBarContent.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/CaptureResult.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureResult.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureResult.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureResult.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/CaptureResult.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ResultRouter.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ResultRouter.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ResultRouter.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ResultRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ResultRouter.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ResultRouter.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ThumbnailView.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailView.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailView.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailView.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailView.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Result/ThumbnailWindowController.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailWindowController.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailWindowController.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailWindowController~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailWindowController.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/ThumbnailWindowController.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Settings/Preferences.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/Preferences.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/Preferences.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/Preferences~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/Preferences.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/Preferences.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/Settings/SettingsView.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SettingsView.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SettingsView.dia"
+  },
+  "/Users/lukepitstick/Projects/Apps/snapshot/Sources/Snapshot/SnapshotApp.swift": {
+    "dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SnapshotApp.d",
+    "object": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SnapshotApp.swift.o",
+    "swiftmodule": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SnapshotApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SnapshotApp.swiftdeps",
+    "diagnostics": "/Users/lukepitstick/Projects/Apps/snapshot/.build/arm64-apple-macosx/debug/Snapshot.build/SnapshotApp.dia"
+  }
+}
